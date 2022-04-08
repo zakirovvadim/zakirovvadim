@@ -8,7 +8,7 @@
 I like to explore new technologies and develop software solutions.
 <br>
 <g-emoji class="g-emoji" alias="mortar_board" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f393.png">🎓</g-emoji>
-I'm currently working as an intern in russian company T1Consulting.
+I'm currently at working as an intern in Russian company T1Consulting.
 <br>
 <g-emoji class="g-emoji" alias="seedling" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f331.png">🌱</g-emoji>
 I'm on track for learning more about Java, Spring and web services.
